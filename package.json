@@ -1,0 +1,30 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "Conteúdo de aulas do módulo03",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Ednilson Lucas Fragoso",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "cors": "^2.8.5",
+    "D": "^1.0.0",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edfragoso/C016-M03-FLS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edfragoso/C016-M03-FLS/issues"
+  },
+  "homepage": "https://github.com/edfragoso/C016-M03-FLS#readme"
+}
